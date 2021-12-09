@@ -153,7 +153,7 @@ Thin with a quiet fan, and the only cooler to have no heatpipes. This is done so
 
 
 ## Thermalright AXP-90
-- 32mm tall
+- 47mm tall
 - Unlimited memory clearence 
 - Thermalright TL-9015 PWM fan 
 - 4 heatpipes
