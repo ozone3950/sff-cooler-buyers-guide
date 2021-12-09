@@ -112,7 +112,7 @@ Another decent cooler with unlimited memory clearence. However, the fan is not P
 - Unlimited memory clearence 
 - 90mm HDB PWM fan
 - 4 heatpipes
-- 14-33 dBA noise level 
+- 14 - 33 dBA noise level 
 
 ##### Notes:
 
