@@ -14,8 +14,6 @@ ITX is an underrated platform that many people do not know in depth about. Small
 
 'ITX Tax' is a term used regarding the extra cost of going the ITX route. ITX systems do usually cost more, but noawadays it's not bad at all. It can definitely be worth it if you want to go this route.
 
-##### DISCLAIMER: NOT FINISHED 
-
 
 
 # <75mm Coolers 
@@ -74,6 +72,11 @@ Great heatsink for a cooler that supports unlimited memory clearence, and a quie
 While having the biggest heatsink out of the bunch that has unlimited memory clearence, it also includes a 120mm Kaze Flex Slim, which gives this cooler great thermals in relation to noise in combination with the heatsink.
 
 ![bigshuriken3](https://user-images.githubusercontent.com/91910634/145446575-8b6ad439-9aa2-4d9b-bd46-ee08bffc8745.png)
+
+
+## Verdict:
+
+The best choice here is the Scythe Big Shuriken 3. Probably the best performance with very quiet accousitcs, whilst still having unlimited memory clearence.
 
 
 
@@ -161,3 +164,16 @@ Thin with a quiet fan, and the only cooler to have no heatpipes. This is done so
 Usually the cheapest out of them all, this cooler has very good performance for the price, has a good quiet fan, and unlimited memory clearence.
 
 ![axp90](https://user-images.githubusercontent.com/91910634/145448633-c6870c0a-febe-4e78-a13c-98f607d26822.png)
+
+
+## Verdict:
+
+This category goes to the Alpenföhn BLACK RIDGE. Great performance included with a decent fan, and a great customizability.
+
+
+
+# Credits/Sources
+
+The specifications are from the manafactuers' sites.
+
+If you have any more questions, ask them on my [Discord](https://discord.gg/u6QV6s6).
