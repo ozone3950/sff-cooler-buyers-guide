@@ -24,7 +24,8 @@ ITX is an underrated platform that many people do not know in depth about. Small
 - 75mm tall
 - 33mm memory clearence
 - q20mm RGB PWM fan
-- 5 heatpipes 
+- 5 heatpipes
+- 19.5-29.2 dBA noise level
 
 
 ## Noctua L12S
@@ -32,6 +33,7 @@ ITX is an underrated platform that many people do not know in depth about. Small
 - 48mm memory clearence
 - NF-A12x15 PWM fan
 - 4 heatpipes
+- 16.8 - 23.9 dBA noise level
 
 
 ## Noctua L9x65
@@ -39,6 +41,7 @@ ITX is an underrated platform that many people do not know in depth about. Small
 - Unlimited memory clearence
 - NF-A9x14 PWM fan
 - 4 heatpipes
+- 14.8 - 23.6 dBA noise level 
 
 
 ## Scythe Big Shuriken 3
@@ -46,6 +49,7 @@ ITX is an underrated platform that many people do not know in depth about. Small
 - Unlimited memory clearence
 - Kaze Flex 120mm Slim PWM fan
 - 5 heatpipes
+- 2.7 - 30 dBA noise level 
 
 
 
@@ -56,6 +60,7 @@ ITX is an underrated platform that many people do not know in depth about. Small
 - 33mm memory clearence
 - 92mm FDB PWM fan
 - 6 heatpipes
+- 14 - 37.6 dBA noise level 
 
 
 ## Alpenföhn Silveetta
@@ -63,6 +68,7 @@ ITX is an underrated platform that many people do not know in depth about. Small
 - Unlimited memory clearence
 - 92mm HDB PWM fan
 - 3 heatpipes
+- 14 - 37.6 dBA noise level
 
 
 ## CRYORIG C7
@@ -70,6 +76,7 @@ ITX is an underrated platform that many people do not know in depth about. Small
 - Unlimited memory clearence
 - 92mm fan
 - 4 heatpipes
+- 30 dBA noise level 
 
 
 ## Jonsbo HP-400
@@ -77,16 +84,20 @@ ITX is an underrated platform that many people do not know in depth about. Small
 - Unlimited memory clearence 
 - 90mm HDB PWM fan
 - 4 heatpipes
+- 14-33 dBA noise level 
 
 
 ## Noctua L9a / L9i
 - 37mm tall 
 - Unlimited memory clearence
 - NH-A9x14 PWM fan
-- no heatpipes
+- No heatpipes
+- 14.8 - 23.6 dBA noise level
 
 
 ## Thermalright AXP-90
 - 32mm tall
 - Unlimited memory clearence 
 - Thermalright TL-9015 PWM fan 
+- 4 heatpipes
+- 22.4 dBA noise level 
