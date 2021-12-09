@@ -29,7 +29,9 @@ ITX is an underrated platform that many people do not know in depth about. Small
 
 ##### Notes:
 
-Great value cooler with a great sized heatsink. However, the fan is quite loud. This cooler and a fanswap would be a great idea for a low price. 
+Great value cooler with a great sized heatsink. However, the fan is quite loud. This cooler with a fanswap would be a great idea for a low price. 
+
+![cr701](https://user-images.githubusercontent.com/91910634/145445625-a18bb2f9-a21c-4982-937d-05d7de12196d.png)
 
 
 ## Noctua L12S
@@ -43,6 +45,8 @@ Great value cooler with a great sized heatsink. However, the fan is quite loud. 
 
 Great sized heatsink with a good, quiet fan. The cooler comes with NT-H1, which is great thermal paste.
 
+![l12s](https://user-images.githubusercontent.com/91910634/145446148-e3f60a9e-ae9e-4aec-8cb4-2740c682c2ab.png)
+
 
 ## Noctua L9x65
 - 65mm tall
@@ -55,6 +59,8 @@ Great sized heatsink with a good, quiet fan. The cooler comes with NT-H1, which 
 
 Great heatsink for a cooler that supports unlimited memory clearence, and a quiet fan. This also comes with NT-H1 thermal paste.
 
+![l9x65](https://user-images.githubusercontent.com/91910634/145445996-372d0f28-e663-4ab5-91c2-9c6f5dc7c727.png)
+
 
 ## Scythe Big Shuriken 3
 - 69mm tall 
@@ -66,6 +72,8 @@ Great heatsink for a cooler that supports unlimited memory clearence, and a quie
 ##### Notes:
 
 While having the biggest heatsink out of the bunch that has unlimited memory clearence, it also includes a 120mm Kaze Flex Slim, which gives this cooler great thermals in relation to noise in combination with the heatsink.
+
+![bigshuriken3](https://user-images.githubusercontent.com/91910634/145446575-8b6ad439-9aa2-4d9b-bd46-ee08bffc8745.png)
 
 
 
@@ -82,6 +90,8 @@ While having the biggest heatsink out of the bunch that has unlimited memory cle
 
 The most customizable coolers out of the options. Even though the fan is still good, it's possible to mount a 120mm fan ontop of the cooler instead, if you have any clearence left.
 
+![blackridge](https://user-images.githubusercontent.com/91910634/145446788-c57ab99b-de3d-41ae-9b55-d9535257a7ee.png)
+
 
 ## Alpenföhn Silveetta
 - 45mm tall
@@ -93,6 +103,8 @@ The most customizable coolers out of the options. Even though the fan is still g
 ##### Notes:
 
 Slightly smaller than the BLACK RIDGE with a very similar fan, the performance isn't too far off that cooler. An upside is that this cooler has unlimited memory clearence and the BLACK RIDGE does not.
+
+![silvretta](https://user-images.githubusercontent.com/91910634/145447060-bf7f6a39-1d26-47b6-ae93-25deefdd3e7f.png)
 
 
 ## CRYORIG C7
@@ -106,6 +118,8 @@ Slightly smaller than the BLACK RIDGE with a very similar fan, the performance i
 
 Another decent cooler with unlimited memory clearence. However, the fan is not PWM and is on the louder side.
 
+![c7](https://user-images.githubusercontent.com/91910634/145447250-bfca4377-095b-447d-94c6-babbee7b5799.png)
+
 
 ## Jonsbo HP-400
 - 36mm tall
@@ -116,7 +130,9 @@ Another decent cooler with unlimited memory clearence. However, the fan is not P
 
 ##### Notes:
 
-Great value cooler with unlimited memory clearence coming in handy again. This is the only cooler here that also comes in a blue coloured heatsink.
+Great value cooler with unlimited memory clearence coming in handy again. Like the CR-701, a fanswap would be a good option. This is the only cooler here that also comes in a blue coloured heatsink.
+
+![hp400](https://user-images.githubusercontent.com/91910634/145449724-e129c215-ca2b-4297-a1e7-e5983be033e0.png)
 
 
 ## Noctua L9a / L9i
@@ -130,6 +146,8 @@ Great value cooler with unlimited memory clearence coming in handy again. This i
 
 Thin with a quiet fan, and the only cooler to have no heatpipes. This is done so it can have a bigger heatsink, since it makes direct contact with the CPU. This also has unlimited memory clearence, and does come with NT-H1 thermal paste.
 
+![l9ia](https://user-images.githubusercontent.com/91910634/145447967-21ce393b-83f2-4127-aa42-83fb64a64284.png)
+
 
 ## Thermalright AXP-90
 - 32mm tall
@@ -140,4 +158,6 @@ Thin with a quiet fan, and the only cooler to have no heatpipes. This is done so
 
 ##### Notes:
 
-The thinnest out of them all, and sometimes even the cheapest. This cooler has very good performance for the size, has a good quiet fan, and unlimited memory clearence.
+Usually the cheapest out of them all, this cooler has very good performance for the price, has a good quiet fan, and unlimited memory clearence.
+
+![axp90](https://user-images.githubusercontent.com/91910634/145448633-c6870c0a-febe-4e78-a13c-98f607d26822.png)
