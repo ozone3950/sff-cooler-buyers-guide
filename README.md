@@ -119,9 +119,9 @@ Slightly smaller than the BLACK RIDGE with a very similar fan, the performance i
 
 ##### Notes:
 
-Another decent cooler with unlimited memory clearence. However, the fan is not PWM and is on the louder side.
+Another decent cooler with unlimited memory clearence. However, the fan is not PWM and is on the louder side. It also has pretty poor mounting. 
 
-![c7](https://user-images.githubusercontent.com/91910634/145447250-bfca4377-095b-447d-94c6-babbee7b5799.png)
+![c7](https://user-images.githubusercontent.com/91910634/145461114-048ce360-da3d-4f4a-99f7-0a20ee70f443.png)
 
 
 ## Jonsbo HP-400
