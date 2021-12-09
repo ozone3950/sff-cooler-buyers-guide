@@ -27,7 +27,7 @@ ITX is an underrated platform that many people do not know in depth about. Small
 - 5 heatpipes 
 
 
-# Noctua L12S
+## Noctua L12S
 - 70mm tall 
 - 48mm memory clearence
 - NF-A12x15 PWM fan
