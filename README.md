@@ -1,6 +1,6 @@
 # SFF Cooler Buyer's Guide
 
-Small form factor systems come in various shapes and sizes. The sections of this guide will be split into categories based on the size/clearence of the coolers, since cases usually specify compatibility in this way. However, note that not all SFF cases require low profile coolers
+Small form factor systems come in various shapes and sizes. The sections of this guide will be split into categories based on the size/clearence of the coolers, since cases usually specify compatibility in this way. However, note that not all SFF cases require low profile coolers.
 
 `"What is SFF?"`
 
@@ -23,9 +23,13 @@ ITX is an underrated platform that many people do not know in depth about. Small
 ## Jonsbo CR-701
 - 75mm tall
 - 33mm memory clearence
-- q20mm RGB PWM fan
+- 120mm RGB PWM fan
 - 5 heatpipes
 - 19.5-29.2 dBA noise level
+
+##### Notes:
+
+Great value cooler with a great sized heatsink. However, the fan is quite loud. This cooler and a fanswap would be a great idea for a low price. 
 
 
 ## Noctua L12S
@@ -35,6 +39,10 @@ ITX is an underrated platform that many people do not know in depth about. Small
 - 4 heatpipes
 - 16.8 - 23.9 dBA noise level
 
+##### Notes: 
+
+Great sized heatsink with a good, quiet fan. The cooler comes with NT-H1, which is great thermal paste.
+
 
 ## Noctua L9x65
 - 65mm tall
@@ -43,6 +51,10 @@ ITX is an underrated platform that many people do not know in depth about. Small
 - 4 heatpipes
 - 14.8 - 23.6 dBA noise level 
 
+##### Notes:
+
+Great heatsink for a cooler that supports unlimited memory clearence, and a quiet fan. This also comes with NT-H1 thermal paste.
+
 
 ## Scythe Big Shuriken 3
 - 69mm tall 
@@ -50,6 +62,10 @@ ITX is an underrated platform that many people do not know in depth about. Small
 - Kaze Flex 120mm Slim PWM fan
 - 5 heatpipes
 - 2.7 - 30 dBA noise level 
+
+##### Notes:
+
+While having the biggest heatsink out of the bunch that has unlimited memory clearence, it also includes a 120mm Kaze Flex Slim, which gives this cooler great thermals in relation to noise in combination with the heatsink.
 
 
 
@@ -62,6 +78,10 @@ ITX is an underrated platform that many people do not know in depth about. Small
 - 6 heatpipes
 - 14 - 37.6 dBA noise level 
 
+##### Notes: 
+
+The most customizable coolers out of the options. Even though the fan is still good, it's possible to mount a 120mm fan ontop of the cooler instead, if you have any clearence left.
+
 
 ## Alpenföhn Silveetta
 - 45mm tall
@@ -69,6 +89,10 @@ ITX is an underrated platform that many people do not know in depth about. Small
 - 92mm HDB PWM fan
 - 3 heatpipes
 - 14 - 37.6 dBA noise level
+
+##### Notes:
+
+Slightly smaller than the BLACK RIDGE with a very similar fan, the performance isn't too far off that cooler. An upside is that this cooler has unlimited memory clearence and the BLACK RIDGE does not.
 
 
 ## CRYORIG C7
@@ -78,6 +102,10 @@ ITX is an underrated platform that many people do not know in depth about. Small
 - 4 heatpipes
 - 30 dBA noise level 
 
+##### Notes:
+
+Another decent cooler with unlimited memory clearence. However, the fan is not PWM and is on the louder side.
+
 
 ## Jonsbo HP-400
 - 36mm tall
@@ -85,6 +113,10 @@ ITX is an underrated platform that many people do not know in depth about. Small
 - 90mm HDB PWM fan
 - 4 heatpipes
 - 14-33 dBA noise level 
+
+##### Notes:
+
+Great value cooler with unlimited memory clearence coming in handy again. This is the only cooler here that also comes in a blue coloured heatsink.
 
 
 ## Noctua L9a / L9i
@@ -94,6 +126,10 @@ ITX is an underrated platform that many people do not know in depth about. Small
 - No heatpipes
 - 14.8 - 23.6 dBA noise level
 
+##### Notes:
+
+Thin with a quiet fan, and the only cooler to have no heatpipes. This is done so it can have a bigger heatsink, since it makes direct contact with the CPU. This also has unlimited memory clearence, and does come with NT-H1 thermal paste.
+
 
 ## Thermalright AXP-90
 - 32mm tall
@@ -101,3 +137,7 @@ ITX is an underrated platform that many people do not know in depth about. Small
 - Thermalright TL-9015 PWM fan 
 - 4 heatpipes
 - 22.4 dBA noise level 
+
+##### Notes:
+
+The thinnest out of them all, and sometimes even the cheapest. This cooler has very good performance for the size, has a good quiet fan, and unlimited memory clearence.
