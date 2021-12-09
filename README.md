@@ -168,7 +168,7 @@ Usually the cheapest out of them all, this cooler has very good performance for 
 
 ## Verdict:
 
-This category goes to the Alpenföhn BLACK RIDGE. Great performance included with a decent fan, and a great customizability.
+This category goes to the Alpenföhn BLACK RIDGE. Great performance included with a decent fan, and great customizability.
 
 
 
