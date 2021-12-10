@@ -142,12 +142,12 @@ Great value cooler with unlimited memory clearence coming in handy again. Like t
 - 37mm tall 
 - Unlimited memory clearence
 - NH-A9x14 PWM fan
-- No heatpipes
+- 2 heatpipes
 - 14.8 - 23.6 dBA noise level
 
 ##### Notes:
 
-Thin with a quiet fan, and the only cooler to have no heatpipes. This is done so it can have a bigger heatsink, since it makes direct contact with the CPU. This also has unlimited memory clearence, and does come with NT-H1 thermal paste.
+Thin with a quiet fan, and the only cooler to have its heatpipes this way. This is done so it can have a bigger heatsink, since it nearly makes direct contact with the CPU. This also has unlimited memory clearence, and does come with NT-H1 thermal paste.
 
 ![l9ia](https://user-images.githubusercontent.com/91910634/145447967-21ce393b-83f2-4127-aa42-83fb64a64284.png)
 
